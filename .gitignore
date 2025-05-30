@@ -1,0 +1,10 @@
+
+*.zip
+*.tar.gz
+
+*.mp4
+*.mov
+*.mp3
+*.wav
+
+*/rockyou.txt
